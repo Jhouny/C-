@@ -6,7 +6,7 @@ int main() {
   int age = 17;    //Whole number (integer) initialization
   float pi = 3.1415926535;    //Floating point number
   double other = 1.22133243242189744; //Float, but stores more decimals
-
+  bool learning = true;
 
 
   cout << "Hey there" << endl;    //Same as 'print' in Python
